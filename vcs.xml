@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/nestjs/nest.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://randcyp@bitbucket.org/quickdeskio/qd-chat-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\username\WebstormProjects" />
